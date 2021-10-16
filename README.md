@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Kuralay-IOS
-- 👀 I’m interested in iOS development
-- 🌱 I’m currently learning SWIFT, Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 kuralaybiehler@gmail.com
+- 👋  Hi, I’m @Kuralay-iOS
+- 👀  I’m interested in iOS development
+- 🌱  I’m currently learning SWIFT, Python
+- 💞️  I’m looking to collaborate on ...
+- 📫  kuralaybiehler@gmail.com
 
 <!---
 Kuralay-IOS/Kuralay-IOS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
